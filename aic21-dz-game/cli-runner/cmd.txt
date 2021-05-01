@@ -1,0 +1,1 @@
+java -jar server.jar --first-team=".\cli-runner\runner.exe ..\aic21-dz-client\Controller.py" --second-team=".\cli-runner\runner.exe ..\aic21-dz-client\Controller.py"
